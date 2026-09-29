@@ -1,0 +1,7 @@
+build/
+.build-cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+AMB82-MINI_系統紀錄_*.csv
